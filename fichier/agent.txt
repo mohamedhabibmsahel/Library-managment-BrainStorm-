@@ -1,0 +1,4 @@
+CIN;Nom ;Prénom;Mail;Role;
+1;aze;;;;
+11;a;a;aa;a;
+111;;;;;

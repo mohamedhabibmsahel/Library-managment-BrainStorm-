@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Accueil</class>
+ <widget class="QDialog" name="Accueil">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>852</width>
+    <height>480</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QToolButton" name="PB_GLL">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>200</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Gérer les livres</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="PB_S">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>300</y>
+     <width>200</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Stocks</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_BG">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>852</width>
+     <height>480</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>852</width>
+     <height>480</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>852</width>
+     <height>480</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="PB_D">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>375</y>
+     <width>200</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Déconnexion</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="PB_EC">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>75</y>
+     <width>200</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Espace Client</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="PB_C">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>225</y>
+     <width>200</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Commandes</string>
+   </property>
+  </widget>
+  <widget class="QToolButton" name="PB_E">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>150</y>
+     <width>200</width>
+     <height>75</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Evénement</string>
+   </property>
+  </widget>
+  <zorder>label_BG</zorder>
+  <zorder>PB_GLL</zorder>
+  <zorder>PB_S</zorder>
+  <zorder>PB_D</zorder>
+  <zorder>PB_EC</zorder>
+  <zorder>PB_C</zorder>
+  <zorder>PB_E</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

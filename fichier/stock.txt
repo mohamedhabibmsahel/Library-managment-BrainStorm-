@@ -1,0 +1,6 @@
+ID Stock ;Catégorie;Adresse;
+10;15;30;
+25;@esprit;livre;
+39;categorie;adresse;
+99;10;88;
+6969999;romantique;mmc;

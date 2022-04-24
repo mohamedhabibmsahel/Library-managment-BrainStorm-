@@ -1,0 +1,7 @@
+ID;Titre;Date ;Adresse;
+1;;12/01/2000;;
+12;azeaze;zaemmmmmmmmm;;
+1200;azerty;;;
+2;;01/01/2000;;
+454545;;;;
+9999999;story;12/22/55;azeaz;
